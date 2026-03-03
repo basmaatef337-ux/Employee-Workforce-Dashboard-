@@ -4,9 +4,7 @@
 This project presents an interactive Employee Dashboard built using Microsoft Excel.  
 The dashboard provides a comprehensive overview of workforce analytics including employee distribution, salary insights, department breakdown, and years of service.
 It helps HR teams and management make data-driven decisions regarding workforce planning and compensation strategy.
-
-##  Dashboard Preview
-<img src="Employee Performance Dashboard.JPG" width="900">
+[Dashboard Preview](Employee Performance Dashboard.JPG)
 
 ##  Objectives
 - Analyze total workforce distribution
@@ -59,4 +57,3 @@ It helps HR teams and management make data-driven decisions regarding workforce 
 For collaboration or discussion:
 LinkedIn: [https://www.linkedin.com/in/basma-atef-bb051594/]
 
-![Employee Performance Dashboard](Employee Performance Dashboard.JPG)
