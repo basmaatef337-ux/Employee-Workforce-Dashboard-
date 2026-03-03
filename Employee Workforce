@@ -1,0 +1,62 @@
+# Employee Performance Dashboard
+
+##  Project Overview
+This project presents an interactive Employee Dashboard built using Microsoft Excel.  
+The dashboard provides a comprehensive overview of workforce analytics including employee distribution, salary insights, department breakdown, and years of service.
+It helps HR teams and management make data-driven decisions regarding workforce planning and compensation strategy.
+
+##  Dashboard Preview
+<img src="Employee Performance Dashboard.JPG" width="900">
+
+##  Objectives
+- Analyze total workforce distribution
+- Identify active vs inactive employees
+- Evaluate salary structure and top paid employees
+- Analyze average years of service by job role
+- Understand employee age distribution
+
+## Key Metrics
+- Total Employees: 792
+- Active Employees: 691
+- Inactive Employees: 101
+- Average Years of Service: 2.68
+- Average Annual Salary: $661,108.71
+
+##  Dashboard Components
+### 1️⃣ Employee Count per Department
+- Engineering represents the largest workforce segment.
+- IT and Finance follow in workforce distribution.
+### 2️⃣ Age Year of Service Analysis
+- Dev Engineering and Quality Engineering show higher service averages.
+- IT Coordination shows the lowest average service years.
+### 3️⃣ Top 10 High Paid Employees
+- Displays highest earning employees.
+- Useful for compensation benchmarking.
+### 4️⃣ Employee Age Distribution
+- Majority workforce lies in the 30–39 age group.
+- Balanced gender representation across age groups.
+
+##  Tools Used
+- Microsoft Excel
+  - Pivot Tables
+  - Slicers
+  - Charts
+  - Dashboard Design Techniques
+
+##  Business Insights
+- Engineering department dominates headcount (over 50%).
+- Workforce is relatively young (majority under 40).
+- Certain technical roles show higher retention (based on service years).
+- Compensation concentration among specific job roles.
+
+##  Recommendations
+- Develop retention strategies for low service-year roles.
+- Plan succession strategy based on age distribution.
+- Conduct salary structure review for fairness and competitiveness.
+- Focus on career progression in high-density departments.
+
+## Contact
+For collaboration or discussion:
+LinkedIn: [https://www.linkedin.com/in/basma-atef-bb051594/]
+
+![Employee Performance Dashboard](Employee Performance Dashboard.JPG)
